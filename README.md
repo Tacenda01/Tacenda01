@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="200" alt="Coding Cat"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding Cat"/>
 
   # Hey Everyone! 🌙  
   ## Welcome to My GitHub!
@@ -45,23 +45,6 @@ From full-stack apps to exploring AI, I'm always driven by the **desire to learn
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShakshiSingh&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakshiSingh&layout=compact&theme=radical)
-
-![Shakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakshiSingh&show_icons=true&theme=radical&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ShakshiSingh&theme=radical&margin-w=10&no-frame=true)
-
-</div>
-
----
-
 ## 📬 Connect with Me
 
 <p>
@@ -78,7 +61,24 @@ From full-stack apps to exploring AI, I'm always driven by the **desire to learn
 
 ---
 
+
+## 📊 GitHub Stats
+
 <div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShakshiSingh&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakshiSingh&layout=compact&theme=radical)
+
+![Shakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShakshiSingh&show_icons=true&theme=radical&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ShakshiSingh&theme=radical&margin-w=10&no-frame=true)
+
+</div>
+
+---
+<div align="center">
+
 
 ✨ _Thanks for stopping by! Let's build something awesome together._ ✨
 
