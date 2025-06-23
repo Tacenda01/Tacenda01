@@ -51,7 +51,7 @@ From full-stack apps to exploring AI, I'm always driven by the **desire to learn
   <a href="https://linkedin.com/in/shakshi-singh-24630b275/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/ShakshiSingh" target="_blank">
+  <a href="https://github.com/Tacenda01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:shakshirajput0111@gmail.com">
