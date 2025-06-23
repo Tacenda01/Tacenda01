@@ -14,11 +14,8 @@
 
 ## 🌐 Connect with Me:
 <p>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/shakshi-singh-24630b275" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/yourinstagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
   </a>
 </p>
 
