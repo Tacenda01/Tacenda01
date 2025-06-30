@@ -31,7 +31,7 @@ From full-stack apps to exploring AI, I'm always driven by the **desire to learn
 <div align="center">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux" />
 
 <!-- Backend -->
 <br />
