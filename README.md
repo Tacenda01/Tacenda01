@@ -31,7 +31,7 @@ From full-stack apps to exploring AI, I'm always driven by the **desire to learn
 <div align="center">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,vue,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,angular" />
 
 <!-- Backend -->
 <br />
@@ -43,11 +43,11 @@ From full-stack apps to exploring AI, I'm always driven by the **desire to learn
 
 <!-- Programming & Others -->
 <br />
-<img src="https://skillicons.dev/icons?i=python,cpp,git,docker,graphql,solidity" />
+<img src="https://skillicons.dev/icons?i=python,cpp,git,docker" />
 
 <!-- ML/AI + Tools -->
 <br />
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,firebase,threejs,styledcomponents,vscode" />
+<img src="https://skillicons.dev/icons?i=tensorflow,firebase,vscode" />
 
 </div>
 
