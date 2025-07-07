@@ -1,7 +1,6 @@
 <div align="center">
   
-  ![I get it now](https://media.tenor.com/OgHGnRjSKdsAAAAC/i-get-it-i-understand.gif)
-
+  <img src="https://media.tenor.com/OgHGnRjSKdsAAAAC/i-get-it-i-understand.gif" alt="I get it now" width="300" />
 
   # Hey Everyone! 🌙  
   ## Welcome to My GitHub!
