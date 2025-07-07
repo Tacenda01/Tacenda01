@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding Cat"/>
+  <img src="https://tenor.com/view/i-get-it-i-understand-i-understand-it-i-get-it-now-oh-gif-10605953975286270444" width="200" alt="Coding Cat"/>
 
   # Hey Everyone! 🌙  
   ## Welcome to My GitHub!
