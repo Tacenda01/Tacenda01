@@ -1,5 +1,7 @@
 <div align="center">
   
+  ![I get it now](https://media.tenor.com/OgHGnRjSKdsAAAAC/i-get-it-i-understand.gif)
+
 
   # Hey Everyone! 🌙  
   ## Welcome to My GitHub!
