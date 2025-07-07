@@ -1,6 +1,9 @@
 <div align="center">
   
-  <img src="https://media.tenor.com/OgHGnRjSKdsAAAAC/i-get-it-i-understand.gif" alt="I get it now" width="300" />
+ <p align="center">
+  <img src="https://media.giphy.com/media/KtHvec4SuHhNYyjJsv/giphy.gif" alt="Penguin coding" width="300" />
+</p>
+
 
   # Hey Everyone! 🌙  
   ## Welcome to My GitHub!
